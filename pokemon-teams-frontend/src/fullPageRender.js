@@ -25,4 +25,3 @@ const generateTrainerCard = (trainer) => {
     
     document.body.appendChild(cardDiv)
 }
-

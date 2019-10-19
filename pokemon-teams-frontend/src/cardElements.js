@@ -37,13 +37,3 @@ const generateReleaseButton = (pokemon) => {
 
     return releaseButton
 }
-
-
-
-
-
-
-
-
-
-
